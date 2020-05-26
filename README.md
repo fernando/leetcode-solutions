@@ -1,0 +1,1 @@
+This repository contains my personal solutions for LeetCode's problem set, in Typescript.
